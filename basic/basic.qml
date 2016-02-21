@@ -36,7 +36,7 @@ Window {
 
     VlcPlayer {
         id: vlcPlayer;
-        mrl: "http://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_stereo.avi";
+        mrl: "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4";
     }
     VlcVideoSurface {
         source: vlcPlayer;
